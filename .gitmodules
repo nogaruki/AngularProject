@@ -1,0 +1,6 @@
+[submodule "back"]
+	path = back
+	url = https://github.com/nogaruki/angularBackM1Miage2022_2023.git
+[submodule "front"]
+	path = front
+	url = https://github.com/nogaruki/angularFrontM1Miage2022_2023.git
