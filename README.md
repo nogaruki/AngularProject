@@ -2,6 +2,8 @@
 
 Projet angular réalisé par Avramov Johann et Guillou Quentin
 
+[Présenation vidéo](https://youtu.be/pM0MHkQkOo4)
+
 ## Travailler effectué
 
 __Guillou Quentin__
