@@ -2,8 +2,11 @@
 
 Projet angular réalisé par Avramov Johann et Guillou Quentin
 
-[Présenation vidéo](https://youtu.be/pM0MHkQkOo4)
+  - [Présentation vidéo](https://youtu.be/pM0MHkQkOo4)
 
+  - [Lien du back](https://projet-angular-back.onrender.com/)
+
+  - [Lien du front](https://project-angular-assignment.onrender.com)
 ## Travailler effectué
 
 __Guillou Quentin__
