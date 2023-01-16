@@ -6,7 +6,7 @@ Projet angular réalisé par Avramov Johann et Guillou Quentin
 
   - [Lien du back](https://projet-angular-back.onrender.com/)
 
-  - [Lien du front](https://project-angular-assignment.onrender.com)
+  - [Lien du front](https://project-angular-assignment.onrender.com) (Pas assez de mémoire dans la version Free (512MB) pour être hébergé)
 ## Travailler effectué
 
 __Guillou Quentin__
